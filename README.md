@@ -1,2 +1,2 @@
 # Hello-world
-GIT Hud Tutorial
+GIT Hub Tutorial
